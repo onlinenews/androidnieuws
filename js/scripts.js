@@ -1,10 +1,19 @@
 function mason(div,selector,columns,width) {
-   //var columnscore = new Array();
-   //for (var i=0; i<columns; i++) { 
-   //   columnscore[i] = 0;
-   //}
-   $('#container > .articlebox').each(function(){
-      $(this).css({"background-color":"yellow"});
+   $(div).css({"position":"relative"});
+   var columnscore=new Array();
+   for (var i=0; i<columns; i++) { 
+      columnscore[i]=0;
+   }
+   $(div+'>'+selector).each(function() {
+      var count=0, lowest=columnscore[0], lowest_id=0;
+      while(++count < columnscore.length) {
+         if(columnscore[count] < lowest) {
+            lowest_id = count;
+            lowest = columnscore[count];
+         }
+      }
+      $(this).css({"position":"absolute","top":lowest+"px","left":lowest_id*width+"px"});
+      columnscore[lowest_id] = columnscore[lowest_id] + $(this).outerHeight() - 1;
    });
 }
 
