@@ -1,8 +1,10 @@
-function mason() {
-   $('#container').masonry('destroy');
-   $('#container').masonry({
-      itemSelector : '.articlebox',
-      columnWidth : 320
+function mason(div,selector,columns,width) {
+   var columnscore = array();
+   for (var i=0; i<columns; i++) { 
+      columnscore[i] = 0;
+   }
+   $(div+'>'+selector).each(function(){
+      $(this).css("background-color","yellow");
    });
 }
 
