@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+   <html>
+      <head>
+         <title>AndroidNieuws - Geolocation with an MBaaS on Android</title>
+         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+         <script src="js/masonry.js" type="text/javascript"></script>
+         <script src="js/scripts.js" type="text/javascript"></script>
+         <script type="text/javascript">
+            WebFontConfig = {
+               google: { families: [ 'Magra:400' ] }};
+            (function() {
+               var wf = document.createElement('script');
+               wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+               wf.type = 'text/javascript';
+               wf.async = 'true';
+               var s = document.getElementsByTagName('script')[0];
+               s.parentNode.insertBefore(wf, s);
+            })();
+         </script>
+         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+      </head>
+      <body>
+         <div id="topbar">
+            <ul>
+               <li class="active">AndroidNieuws</li>
+               <li><a href="#" class="coming_soon">SmartPhoneNieuws</a></li>
+               <li><a href="#" class="coming_soon">XperiaNieuws</a></li>
+               <li><a href="#" class="coming_soon">LGNieuws</a></li>
+               <li><a href="#" class="coming_soon">AndroidNieuws</a></li>
+               <li class="right">15 July 2013</li>
+            </ul>
+         </div>
+         <h1 id="pagetitle"><a href="http://www.androidnieuws.com"><img src="images/title.jpg" alt="iPhone Nieuws"/></a></h1>
+         <div id="nav">
+            <ul>
+               <li class="active">Laatste Nieuws</li>
+               <li><a href="#" class="coming_soon">Tech Specs</a></li>
+               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li><a href="#" class="coming_soon">Foto's</a></li>
+               <li><a href="#" class="coming_soon">Verkooppunten</a></li>
+               <li class="right"><a href="http://twitter.com/iPhoneNieuws_">Aanmelden voor de laatste updates</a></li>
+            </ul>
+         </div><div id="container" class="shift">
+      <div id="article" class="articlebox">
+      <h1>Geolocation with an MBaaS on Android</h1>
+      <p>      		<h3>Related MicroZone Resources</h3>    <p>Like this piece?  Share it with your friends:</p>
+    
+    
+    <a/>
+    <a/>
+    <a/>
+    <a/>
+    <a/>
+    <a/>
+    |
+    <a href="http://addthis.com/bookmark.php?v=250&amp;username=dzone1">More</a>
+    
+    		Having smart devices that are constantly aware of geographic positioning introduces many advantages but also new challenges for mobile application developers. Not only do developers find that data often needs to be efficiently stored with associated location data, but that it's also a requirement to do fast and accurate "geo-aware" queries to retrieve the right objects (eg. when refreshing a map view). In this article I will introduce the Geolocation feature that we've developed here at <a href="http://txt.couchware.com/medias/jump?hid=3037&amp;cid=501&amp;mid=1145" target="">Kii</a> to make your life easier when you're working with associated location data. Thanks to Geolocation, geo data becomes a first class citizen in our platform with the ability to support advanced geo queries.<br/><p><a href="http://blog.kii.com/wp-content/uploads/2013/07/map-marker-small-hi.png"><img alt="Map marker" src="http://blog.kii.com/wp-content/uploads/2013/07/map-marker-small-hi.png" height="239" width="288"/></a></p>
+
+<p>Actually, associating locations with your data and performing geo queries is easy. You just need to get familiar with two basic elements: <em>GeoPoint</em> and <em>GeoQuery</em>. A <em>GeoPoint</em> is basically a pair of latitude and longitude magnitudes that you can freely associate with a Kii object as its attribute. And a <em>GeoQuery</em> is what allows you to query for objects based on these <em>GeoPoint</em> attributes (eg. to issue queries like "which objects are in the given rectangular area?" (<em>GeoBox</em> clause) or "which objects are within a 10km radius of the given point?" (<em>GeoDistance</em> clause).</p>
+
+<p>Let's create an example scenario to illustrate what you can do with Kii Geolocation (we'll provide a sample app around this soon). Imagine your app allows users to scan coupons that they can redeem later on specific stores. The app can store the location where the coupon was scanned and the location of the store where it was redeemed (both as <em>GeoPoint</em>s). This information is then used by the app to display a map with locations where the user scanned and/or redeemed coupons.</p>
+
+<p>The application screens looks more or less like this:</p>
+<a href="http://blog.kii.com/wp-content/uploads/2013/07/KiiCouponSample.png"><img title="Kii Coupon Sample Mockup" alt="Kii Coupon Sample Mockup" src="http://blog.kii.com/wp-content/uploads/2013/07/KiiCouponSample.png" height="255" width="614"/></a> 
+<p><br/></p>
+
+<p>How can we store a Coupon object with location data? You can associate location data by just populating attributes with <em>GeoPoint</em>s. For this this example we will associate two <em>GeoPoint</em> attributes to the Coupon: "<em>viewedAt</em>" and "<em>redeemedAt</em>":</p>
+ 
+
+KiiObject coupon = KiiUser.getCurrentUser().bucket("Coupons").object();
+GeoPoint viewedAt = new GeoPoint(35.667983, 139.739356);
+GeoPoint redeemedAt = new GeoPoint(34.342123, 139.335355);
+
+// associate geo point with KiiObject
+coupon.set("viewedAt", viewedAt);
+coupon.set("redeemedAt", redeemedAt);
+try {
+  coupon.save();
+} catch (IOException ioe) {
+  // check fail reason
+} catch (AppException ae) {
+  // check fail reason.
+}
+
+ 
+<p>When it's time to retrieve the GeoPoint attributes from an already populated object you'd simply do something like this:</p>
+ 
+
+// The fields "viewedAt" and "redeemedAt" have GeoPoint values
+GeoPoint viewedAt = coupon.getGeoPoint("viewedAt");
+GeoPoint redeemedAt = coupon.getGeoPoint("redeemedAt");
+double viewedLat = viewedAt.getLatitude();
+double viewedLon = viewedAt.getLongitude();
+
+ 
+<p>And now the best part: submitting geographic queries that are executed over objects on <a href="http://www.kii.com/en/technology/kiicloud">Kii Cloud</a>. Let's stick to the proposed scenario and show a code snippet that answers the following query: "find all coupons that were viewed at a bounding box and redeemed at no more than 1 km of a specific store" (let's assume the bounding box is the current visible area of the map screen):</p>
+ 
+
+// Prepare the target bucket to be queried.
+KiiBucket bucket = KiiUser.getCurrentUser().bucket("Coupons");
+GeoPoint storeLocation = new GeoPoint(35.52105, 139.699402);
+
+try {
+  // Define GeoBox with NorthEast and SouthWest points.
+  VisibleRegion vr = mMap.getProjection().getVisibleRegion();
+  GeoPoint sw = new GeoPoint(
+      vr.latLngBounds.southwest.latitude, 
+      vr.latLngBounds.southwest.longitude);
+  GeoPoint ne = new GeoPoint(
+      vr.latLngBounds.northeast.latitude, 
+      vr.latLngBounds.northeast.longitude);
+  KiiClause clause1 = KiiClause.geoBox("viewedAt", ne, sw);
+  KiiClause clause2 = KiiClause.geoDistance("redeemedAt", storeLocation, 1000);
+  KiiQuery query = new KiiQuery(KiiClause.and(clause1, clause2));;
+
+  // Execute GeoBox query.
+  KiiQueryResult result = bucket.query(query);
+
+  // Parsing the result will follow...
+
+} catch (IOException ioe) {
+  // check fail reason
+} catch (AppException e) {
+  // check fail reason.
+}
+
+ 
+<p>As you can see, Kii <em>GeoQuery</em>s are smart enough to understand bounding boxes and distances to <em>GeoPoint</em>s (with the ability to use multiple <em>GeoPoint</em>s as part of queries). And what's really a plus here is that you can attach as many geo attributes as you want to your objects and have complex geo queries that rely on them (you're not limited to one associated GeoPoint per object!!).</p>
+
+<p>You can get more detailed information about our Geolocation feature on our <a href="http://documentation.kii.com/en/guides/android/managing-geo/">documentation</a>.</p>
+
+<p>Stay tuned for the iOS implementation of Geolocation (coming in the next few weeks...)</p>	
+	<p/>
+
+    
+
+</p>
+      <p class="source">Bron: <a href="http://feeds.dzone.com/~r/javalobby/frontpage/~3/bpILvhXEo_s/geolocation-mbaas-android">feeds.dzone.com</a>.</p>
+      </div>
+   </div>
+   <div class="articlebox sidebar">
+   </div>
+   <script>
+   $.ajax({
+     url: "sidebar.html",
+     cache: false
+   }).done(function( html ) {
+     $(".sidebar").append(html);
+   });
+   </script>
+   <div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
+            <img src="images/title2.jpg"  style="display: block; margin: 20px auto;"/>
+         </div>
+      </body>
+   </html>
