@@ -3,8 +3,8 @@ function mason(div,selector,columns,width) {
    //for (var i=0; i<columns; i++) { 
    //   columnscore[i] = 0;
    //}
-   $(div+' '+selector).each(function(){
-      $(this).css("background-color","yellow");
+   $(div+'>'+selector).each(function(){
+      $(this).css({"background-color":"yellow"});
    });
 }
 
