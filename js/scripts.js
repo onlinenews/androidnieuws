@@ -1,6 +1,9 @@
 function mason(div,selector,columns,width) {
-
-   $(div+'>'+selector).each(function(){
+   //var columnscore = new Array();
+   //for (var i=0; i<columns; i++) { 
+   //   columnscore[i] = 0;
+   //}
+   $(div+' '+selector).each(function(){
       $(this).css("background-color","yellow");
    });
 }
