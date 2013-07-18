@@ -396,3 +396,9 @@ body {
 #more:hover {
    background-image: none;
 }
+
+.archive li {
+   padding: 0;
+   min-height: 0;
+   border: 0;
+}
