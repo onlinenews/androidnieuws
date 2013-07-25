@@ -3,107 +3,479 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
    <url>
       <loc>http://www.androidnieuws.com/</loc>
-      <lastmod>2013-07-24</lastmod>
+      <lastmod>2013-07-25</lastmod>
       <changefreq>hourly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/android-43-voor-samsung-galaxy-s-iii-op-afbeelding-te-zien.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/google-nexus-7-ii-gaat-hij-het-helemaal-maken.html</loc>
+      <lastmod>2013-07-25</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Android 4.3 voor Samsung Galaxy S III op afbeelding te zien</news:title>
+         <news:publication_date>2013-07-25</news:publication_date>
+         <news:title>Google Nexus 7 II: gaat hij het helemaal maken?</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/canonical-presenteert-eigen-smartphone-met-ubuntu-en-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/google-kondigt-nieuwe-producten-aan.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Canonical presenteert eigen smartphone met Ubuntu en Android</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google kondigt nieuwe producten aan</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/simkaart-hacken-mogelijk-door-middel-van-encryptiecode-in-sms.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/google-presenteert-android-43-en-nieuwe-nexus-7.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>‘Simkaart hacken mogelijk door middel van encryptiecode in sms’</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google presenteert Android 4.3 en nieuwe Nexus 7</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/ubuntu-edge-crowdfunded-smartphone-met-android-n-ubuntu.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/android-43-beschikbaar-voor-nexus-apparaten.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Ubuntu Edge  crowdfunded smartphone met Android én Ubuntu</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Android 4.3 beschikbaar voor Nexus-apparaten</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/samsung-galaxy-s3-met-android-43-gespot.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/helft-van-tablets-draait-op-android-70-miljoen-androidtablets-geactiveerd.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Samsung Galaxy S3 met Android 4.3 gespot</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Helft van tablets draait op Android, 70 miljoen Androidtablets geactiveerd</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/wifi-wachtwoorden-te-grabbel-bij-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/google-presenteert-nieuwe-tablet.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>WiFi-wachtwoorden te grabbel bij Android?</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google presenteert nieuwe tablet</news:title>
       </news:news>
    </url>
    <url>
-      <loc>http://www.androidnieuws.com/rovio-laat-gamers-synchroniseren.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.androidnieuws.com/pac-man-dash-voor-ios-en-android.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
-         <news:publication_date>2013-07-22</news:publication_date>
-         <news:title>Rovio laat gamers synchroniseren</news:title>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Pac-Man Dash voor iOs en Android</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/eerste-apps-verschenen-die-cryptografische-handtekening-android-omzeilen.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Eerste apps verschenen die cryptografische handtekening Android omzeilen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-nexus-7-2-met-android-43-onthuld.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google Nexus 7 2 met Android 4.3 onthuld</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-play-games-verzamelplaats-voor-highscores-achievements-en-multi-play.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google Play Games: verzamelplaats voor highscores, achievements en multi-playergames</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/android-43-nu-beschikbaar-voor-nexus-toestellen.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Android 4.3 nu beschikbaar voor Nexus-toestellen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-laat-android-43-los.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google laat Android 4.3 los</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-chromecast-om-content-te-streamen-naar-tv.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google Chromecast om content te streamen naar TV</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/android-43-jelly-bean-officieel-gelanceerd-door-google.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Android 4.3 (Jelly Bean) officieel gelanceerd door Google</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-presenteert-android-43-jelly-bean.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google presenteert Android 4.3 Jelly Bean</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-maakt-de-vernieuwde-nexus-7-tablet-bekend.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google maakt de vernieuwde Nexus 7-tablet bekend</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/nexus-7-en-android-43-jelly-bean-gepresenteerd-door-google.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nexus 7 en Android 4.3 Jelly Bean gepresenteerd door Google</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/x-men-naar-ios-en-android.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>X-Men naar iOS en Android</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-kopieert-airplay-maar-dan-anders.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google kopieert Airplay, maar dan anders</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/download-google-play-games-vanaf-nu-beschikbaar.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Download Google Play Games, vanaf nu beschikbaar</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/mad-catz-komt-met-ouya-rivaal.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Mad Catz komt met Ouya-rivaal</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-kondigt-android-43-aan-voor-nexus-4-7-10-en-galaxy-nexus.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google kondigt  Android 4.3 aan voor Nexus 4, 7, 10 en Galaxy Nexus</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-introduceert-nieuwe-nexus-7.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google introduceert nieuwe Nexus 7</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/android-malware-afgelopen-kwartaal-verzesvoudigd.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Android-malware afgelopen kwartaal verzesvoudigd</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/samsung-verslaat-apple-in-tweede-kwartaal-2013.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Samsung verslaat Apple in tweede kwartaal 2013</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-livestream-1800-volg-alles-over-android-43-en-nieuwe-nexus-7-hier.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google livestream 18.00: volg alles over Android 4.3 en nieuwe Nexus 7 hier</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/htc-desire-500-ziet-levenslicht.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>HTC Desire 500 ziet levenslicht</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/details-nieuwe-nexus-7-lekken-uit.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Details nieuwe Nexus 7 lekken uit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/malware-op-05-procent-van-mobiele-apparaten.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>'Malware op 0,5 procent van mobiele apparaten'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/htc-one-android-422-update-stopgezet-nieuwe-update-in-ontwikkeling.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>HTC One Android 4.2.2 update stopgezet, nieuwe update in ontwikkeling</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/persafbeeldingen-nieuwe-google-nexus-7-lekt-uit.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Persafbeeldingen nieuwe Google Nexus 7 lekt uit</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/smartphone-wat-te-doen-bij-waterschade.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Smartphone: Wat te doen bij waterschade</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.androidnieuws.com/google-stelt-nieuwe-nexus-7-en-chromecast-voor.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Android Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Google stelt nieuwe Nexus 7 en Chromecast voor</news:title>
       </news:news>
    </url>
    <url>
       <loc>http://www.androidnieuws.com/gelekte-persfoto-nieuwe-nexus-7-bevestigt-full-hd-scherm.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -113,10 +485,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-glass-gaat-in-massaproductie.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -126,10 +499,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/persfoto-witte-moto-x-en-specificaties-gelekt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -139,10 +513,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/app-van-de-week-30-4gmark-uitgebreide-speedtest-voor-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -152,10 +527,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/rovio-laat-gamers-synchroniseren-1.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -165,10 +541,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-offers-binnenkort-in-nederland.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -178,10 +555,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/supersnel-mobiel-internetten-met-4g-van-kpn-advertorial.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -191,10 +569,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/android-spelcomputer-nvidia-shield-verschijnt-op-31-juli.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -204,10 +583,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/mobiele-tv-nederland-begint-dit-jaar-tv-uitzendingen-op-ios.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -217,10 +597,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nieuwe-nexus-7-foto-gelekt-laat-tablet-in-volle-glorie-zien.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -230,10 +611,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/de-beste-android-apps-in-play-store-van-week-29--2013.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-21</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -243,10 +625,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/krome-android-notificaties-op-je-desktop-krijgen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-21</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -256,10 +639,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/rovio-account-slaat-al-je-angry-birds-voortgang-op.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -269,10 +653,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/eerste-ervaring-met-htc-one-mini.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -282,10 +667,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/gebrickte-telefoon-valt-bij-samsung-voortaan-onder-garantie.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -295,10 +681,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-lekt-hogeresolutie-tablet.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-20</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -308,10 +695,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/compacte-versie-van-htc-one-android-smartphone.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -321,10 +709,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/android-elke-seconde-17-nieuwe-toestellen-geactiveerd.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -334,10 +723,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-play-store-en-android-breken-records.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -347,10 +737,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/de-drie-beste-apps-voor-het-bewerken-van-documenten-op-je-android-tablet.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -360,10 +751,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nokia-directeur-was-bang-voor-samsung.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -373,10 +765,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/bescherm-je-tablet-smartphone-of-laptop-gratis-tegen-diefstal-en-verlies-me.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -386,10 +779,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/dure-tegenvaller-voor-goedkope-windows.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -399,10 +793,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/blackberry-android-gebruikers-kunnen-eind-september-pingen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -412,10 +807,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/play-store-komt-mogelijk-binnenkort-naar-google-glass.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -425,10 +821,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/weerstation-voor-ios-en-android-meet-ook-luchtkwaliteit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -438,10 +835,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-activeert-15-miljoen-android-toestellen-per-dag.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -451,10 +849,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/hardwareinfo-tv-android-fotocameras-van-samsung-en-nikon.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -464,10 +863,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/ringtext-laat-gebruiker-offline-gratis-smsen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -477,10 +877,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-activeert-anderhalf-miljoen-android-apparaten-per-dag.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -490,10 +891,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/tablet-microsoft-lijkt-enorme-flop.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -503,10 +905,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/vlc-videospeler-verschijnt-opnieuw-voor-ipad-ipod-en-iphone.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -516,10 +919,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/dubbelcijferige-groei-voor-google-omzetfundament-verbreedt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -529,10 +933,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/aw-hangout-43-android-43-en-htc-one-mini.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -542,10 +947,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/voor-ios-apps-wordt-gemiddeld-het-meest-betaald.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -555,10 +961,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/video-angry-birds-star-wars-komt-naar-consoles.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -568,10 +975,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-persevent-android-43-nexus-7-of-allebeiaaa.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -581,10 +989,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/sci-fi-serie-firefly-krijgt-mobiele-online-role-playing-game.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -594,10 +1003,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nunl-app-voor-android-weergave-aanpassen-op-tablets-en-prestatieverbetering.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -607,10 +1017,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/televisieserie-firefly-krijgt-game-op-smartphone.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -620,10 +1031,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/firefly-zal-terug-keren.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -633,10 +1045,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/bittorrent-sync-beschikbaar-op-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -646,10 +1059,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/wederom-free-spins-actie-bij-unibet.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -659,10 +1073,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nunl-update-laat-gebruikers-zelf-voorpagina-instellen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -672,10 +1087,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-one-mini-android-smartphone.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -685,10 +1101,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-niet-schuldig-aan-oneerlijk-pushen-via-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -698,10 +1115,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/angry-birds-star-wars-komt-naar-alles.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -711,10 +1129,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/colar-app-brengt-kleurplaten-tot-leven.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -724,10 +1143,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/firefly-leeft-voort-als-mobiele-game.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -737,10 +1157,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/android-back-up-stuurt-wifi-wachtwoord-naar-google.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -750,10 +1171,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-kondigt-persbijeenkomst-aan-android-43-volledig-uitgelekt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -763,10 +1185,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/televisieserie-firefly-krijgt-ios--en-android-game.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -776,10 +1199,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/windows-marktaandeel-in-vrije-val.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -789,10 +1213,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-kondigt-one-mini-aan-kleine-versie-htc-one-met-43-inch-scherm.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -802,10 +1227,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/gelekte-android-43-firmware-voor-nexus-4-verbetert-grafische-prestaties.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -815,10 +1241,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-galaxy-tab-3-serie-in-nederland.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -828,10 +1255,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-legt-e-boeken-in-play-store.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -841,10 +1269,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/beelden-van-opvolger-nexus-7-duiken-op.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -854,10 +1283,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-komt-op-24-juli-met-android-43-en-nieuwe-nexus.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -867,10 +1297,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/bittorrents-dropbox-alternatief-nu-ook-voor-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -880,10 +1311,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/grote-maten-in-den-haag.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -893,10 +1325,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/twitter-app-voert-contentfilter-in-tegen-naakt-en-geweld.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -906,10 +1339,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/ing-promoot-fame-game-voor-android-met-mainstreet.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -919,10 +1353,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nieuwe-nexus-7-fotos-en-video-gelekt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -932,10 +1367,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-begint-verkoop-e-books-in-nederland-maar-vergeet-ios-app.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -945,10 +1381,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-organiseert-pers-evenement-nexus-7-android-43.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -958,10 +1395,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-kondigt-mogelijk-android-43-aan-op-evenement-24-juli.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -971,10 +1409,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/bittorrent-brengt-btaversie-uit-van-sync-software.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -984,10 +1423,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/getest-lg-optimus-g-pro.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -997,10 +1437,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/chrome-voor-android-bta-sneller-stabieler-en-ondersteuning-voor-webrtc.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1010,10 +1451,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/huawei-presenteert-mediapad-7-youth.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1023,10 +1465,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-galaxy-folder-clamshell-met-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1036,10 +1479,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-galaxy-ace-plus-update-naar-android-236-beschikbaar-valuepack.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1049,10 +1493,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/whatsapp-voor-ios-gaat-89-cent-per-jaar-kosten.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1062,10 +1507,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-galaxy-folder-ziet-levenslicht.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1075,10 +1521,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/angry-birds-star-wars-ii-aangekondigd.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1088,10 +1535,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/google-maps-vernieuwd-met-explore-functie-en-ipad-support.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1101,10 +1549,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/hp-smartphone-met-iphone-uiterlijk-gelekt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1114,10 +1563,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/samsung-galaxy-tab-2-101-wifi-ontvangt-update-naar-android-412.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1127,10 +1577,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/gelekte-foto-toont-nieuwe-hp-smartphone-met-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1140,10 +1591,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/dagaanbieding-nexus-7-32gb-android-42-tablet-voor-21995.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1153,10 +1605,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/compulab-maakt-mini-pc-met-arm-soc-en-android-voor-75-euro.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1166,10 +1619,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/twitterclient-echofon-werkt-samen-met-buffer-plan-je-tweets-in.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1179,10 +1633,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/de-eerste-lifx-led-wi-fi-lampen-rollen-van-de-productielijn.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1192,10 +1647,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/elcrest1-hey-weerplaza-er-gaat-iets-niet-helemaal-goed-met-de-android-app.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1205,10 +1661,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/4d-magie-op-google-glass.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1218,10 +1675,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/marktaandeel-samsung-nederland-50-van-alle-smartphones.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1231,10 +1689,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/motorola-moto-x-in-gelekte-video.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1244,10 +1703,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/carbon-update-maakt-twitter-app-nogmaals-de-moeite-waard.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1257,10 +1717,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/exact-online-voor-ipad-gelanceerd.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1270,10 +1731,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/transport-tycoon-komt-terug.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1283,10 +1745,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/transport-tycoon-komt-naar-ios-en-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1296,10 +1759,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-one-android-42-update-bereikt-nederland.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1309,10 +1773,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-geeft-android-42-vrij-voor-nederlandse-htc-ones.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1322,10 +1787,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-one-android-422-update-voor-htce11-toestellen-nu-ook-van-start.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1335,10 +1801,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/htc-one-kleurt-rood.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1348,10 +1815,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/archos-presenteert-arnova-101-g4.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1361,10 +1829,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/smartphone-luistert-nonstop-naar-je-stemcommandos.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1374,10 +1843,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/tablet-vakantie-tip-verbatim-mediashare-wireless-meenemen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1387,10 +1857,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/strava-sluit-alternatieve-wielrennersapps-bruut-af.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1400,10 +1871,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/gelekte-moto-x-video-laat-nieuwe-functies-zien.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-15</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1413,10 +1885,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/whatsapp-update-voor-windows-phone-verbetert-prestaties.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-14</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1426,10 +1899,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/de-beste-android-apps-in-play-store-van-week-28--2013.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-14</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1439,10 +1913,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/krijg-het-ios-7-control-center-voor-android.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-14</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1452,10 +1927,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/rovio-hint-naar-vervolg-op-angry-birds-stars-wars.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-13</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1465,10 +1941,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/getest-htc-one.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-13</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1478,10 +1955,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/winkelstraat-lonkt-voor-fashiolista.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-13</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1491,10 +1969,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/beveiligingslek-android-tweede-lek-gevonden-gedicht.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1504,10 +1983,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/rob-koelmans-over-microsoft-concurreert-met-hardwarepartners.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1517,10 +1997,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/nieuwe-tools-voor-ontwikkelaars-android-studio-020-mobiele-websites-debugge.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1530,10 +2011,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/eric-schmidt-googles-relatie-met-apple-is-verbeterd.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1543,10 +2025,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/meerdere-duidelijke-fotos-moto-x-achterkant-opgedoken.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1556,10 +2039,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/relatie-tussen-apple-en-google-weer-wat-beter.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1569,10 +2053,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/android-43-camera-app-los-te-downloaden-voor-oudere-smartphones.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1582,10 +2067,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/vine-voor-android-krijgt-een-grote-update-met-aantal-nieuwe-functies.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1595,10 +2081,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/reza-sarshar-over-microsoft-concurreert-met-hardwarepartners.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1608,10 +2095,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/mega-lanceert-webdienst-voor-versturen-versleutelde-berichten.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1621,10 +2109,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/uit-nu--accomo-is-het-android-debuut-van-xtase-studios.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -1634,10 +2123,11 @@
    </url>
    <url>
       <loc>http://www.androidnieuws.com/crowdpleaser-maak-van-je-iphone-een-3d-camera.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-12</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>AndroidNieuws</news:name>
+            <news:name>Android Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
