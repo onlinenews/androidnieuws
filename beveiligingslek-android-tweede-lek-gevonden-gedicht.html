@@ -1,11 +1,17 @@
 <!DOCTYPE html>
+   <!--
+   Copyright (c) 2013 Android Nieuws
+   All rights reserved
+   -->
    <html>
       <head>
-         <title>AndroidNieuws - Beveiligingslek Android  tweede lek gevonden, gedicht</title>
+         <title>Android Nieuws - Beveiligingslek Android  tweede lek gevonden, gedicht</title>
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <meta name="description" content="Het allerlaatste nieuws over Android!" />
+	 <meta name="keywords" content="Android, androidnieuws, android nieuws, sony, htc, samsung, galaxy, xperia, htc one, samsung galaxy, samsung note, google phone" />
+	 <meta name="author" content="androidnieuws.com" />
          <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-         <script src="js/masonry.js" type="text/javascript"></script>
-         <script src="js/scripts.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
          <script type="text/javascript">
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] }};
@@ -18,48 +24,72 @@
                s.parentNode.insertBefore(wf, s);
             })();
          </script>
-         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
       </head>
-      <body>
+      <body class="androidnieuws">
          <div id="topbar">
             <ul>
-               <li class="active">AndroidNieuws</li>
-               <li><a href="#" class="coming_soon">SmartPhoneNieuws</a></li>
-               <li><a href="#" class="coming_soon">XperiaNieuws</a></li>
-               <li><a href="#" class="coming_soon">LGNieuws</a></li>
-               <li><a href="#" class="coming_soon">AndroidNieuws</a></li>
-               <li class="right">15 July 2013</li>
+               <li class="active">Android Nieuws</li><li><a href="http://www.iphonenieuws.com">iPhone Nieuws</a></li><li><a href="http://www.blackberrynieuws.com">BlackBerry Nieuws</a></li><li><a href="http://www.nokianieuws.com">Nokia Nieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
-         </div>
-         <h1 id="pagetitle"><a href="http://www.androidnieuws.com"><img src="images/title.jpg" alt="iPhone Nieuws"/></a></h1>
+         </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1087655"></script></div><h1 id="pagetitle"><a href="http://www.androidnieuws.com"><img src="images/title.jpg" alt="Android Nieuws"/></a></h1>
          <div id="nav">
             <ul>
-               <li class="active">Laatste Nieuws</li>
-               <li><a href="#" class="coming_soon">Tech Specs</a></li>
-               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
                <li><a href="#" class="coming_soon">Foto's</a></li>
-               <li><a href="#" class="coming_soon">Verkooppunten</a></li>
-               <li class="right"><a href="http://twitter.com/iPhoneNieuws_">Aanmelden voor de laatste updates</a></li>
-            </ul>
+               <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
          </div><div id="container" class="shift">
-      <div id="article" class="articlebox">
-      <h1>Beveiligingslek Android  tweede lek gevonden, gedicht</h1>
-      <p><h2>Beveiligingslek</h2><p>Het beveiligingslek dat deze week bekend werd, heeft te maken met de manier waarop Android installatiebestanden controleert. Of je nu een applicatie haalt uit de Google Play Store of direct van de website van een leverancier: Android-apps zitten altijd in een installatiebestand, genaamd APK. Wanneer je een APK installeert, wordt er gecontroleerd of er niet met de app geknoeid is: naast de digitale handtekening van de fabrikant wordt er ook een digitale vingerafdruk gemaakt van het installatiebestand. Met deze digitale vingerafdruk blijkt iets mis te zijn: het is mogelijk om bestanden aan te passen zonder dat de vingerafdruk voor het systeem onjuist wordt. </p><p>Wanneer kwaadwillenden een installatiebestand aanpassen, door er bijvoorbeeld malware in te zetten, zou Android normaal gesproken de installatie van de app af moeten breken: de digitale vingerafdruk zou immers niet meer kloppen. Deze week werd bekend dat beveiligingsbedrijf Bluebox een manier had gevonden om het installatiebestand aan te passen, zonder dat voor Android de vingerafdruk verandert. Een Chinese hackersgroep of hacker onder de naam Android Security Squad heeft een tweede gat gevonden in de controle van deze vingerafdrukken.</p><h2>Twee lekken</h2><p>Het eerste lek was eigenlijk vrij eenvoudig te misbruiken. Android neemt namelijk wel een digitale vingerafdruk van de bestanden in een installatiepakket af, maar doet dat blijkbaar slordig: het bleek mogelijk om extra bestanden toe te voegen aan een installatiebestand, als deze maar dezelfde naam heeft als een origineel bestand. Wanneer je dat extra bestand, bijvoorbeeld voorzien van kwaadaardige software, in het installatiepakket vóór het originele bestand opneemt, wordt alleen het originele bestand meegenomen in de vingerafdruk, waardoor er niets mis lijkt te zijn. </p><p>Het lek dat door de Chinese onderzoeker(s) gevonden werd, kwam op een interessante manier aan het licht: Google maakte op 3 juli een aanpassing in het Android Open Source Project. In dit project is alle broncode van Android te vinden, op die van de Google-applicaties na. Deze verandering kreeg de volgende omschrijving:</p><p>Values in ZIP files are unsigned</p><p>Op basis van deze korte omschrijving en de verandering in de code wisten de Chinezen uit te vinden welk probleem opgelost wordt door deze verandering. Dit beveiligingsprobleem blijkt dus ook het vingerafdrukproces van Android te raken. Het blijkt mogelijk te zijn om op een specifieke plek in een installatiebestand bepaalde data toe te voegen. Aan het begin van een ingepakt bestand (zip-bestand) dat zich in een installatiebestand bevindt, wordt een getal opgegeven (een combinatie van de naam van het bestand en een extra waarde), waardoor het systeem weet hoeveel verder het moet kijken om bij de data in het bestand te komen. Het bleek mogelijk te zijn om aan dit getal een negatieve waarde te geven, waardoor het verborgen bestand overgeslagen werd in de scan. De wijziging die Google maakte, zorgt er voor dat dit getal alleen nog positieve waarden kan krijgen.</p><h2>Gevaar</h2><p>Het tweede lek is net zo gevaarlijk als het lek dat eerder aan het licht kwam. Net als voor het eerste lek, heeft Google ook voor het tweede lek een oplossing. Deze oplossing moet echter wel eerst door fabrikanten opgenomen worden in een update, voordat je toestel volledig beschermd is tegen misbruik van dit lek. Dat zal waarschijnlijk opnieuw leiden tot koppen als 'opnieuw lek gevonden in 99% van alle Androidtoestellen' en dat is misschien ook wel terecht. Aan de andere kant is het risico dat je loopt dat er misbruik gemaakt wordt van (één van deze twee) lekken minimaal. </p><p>Dat het risico minimaal is, zullen we nog een keer uitleggen. Ten eerste zijn applicaties die je download via de Google Play Store vrij van misbruik van het eerste lek en gegeven het feit dat Google de code aangepast heeft in het Android Open Source Project, kunnen we er zeker van zijn dat applicaties in de Google Play Store ook vrij zijn van misbruik van het tweede lek. Daarnaast scant Google ook applicaties die niet in de Play Store te vinden zijn. Het bedrijf heeft al een tijd terug bekend gemaakt ook applicaties te downloaden van over het hele web, uit applicatiewinkels van derden en vermoedelijk zelfs illegale bronnen. In deze applicaties scant het bedrijf ook op malware, bijvoorbeeld malware die gebruik maakt van deze lekken. Met deze informatie wordt de scanner die in de Play Store zit aangepast. Deze malwarescanner is verborgen in de Play Store-applicatie op jouw toestel en werkt officieel pas vanaf Android 4.2. Google heeft hier echter een truc voor en gebruikt Google Play Services om ook op Android 2.2 bestanden te kunnen verifiëren en scannen. Meer informatie over hoe dit werkt kun je <a href="http://androidworld.nl/nieuws/beveiligingslek-android/">hier lezen</a>. Wanneer je alleen applicaties of games installeert vanuit de Play Store, ben je 100% veilig voor deze lekken. Wanneer je applicaties ergens anders vandaan haalt maar laat verifiëren door Google Play Services of de Google Play Store, zul je ook veilig zijn voor dit lek. Op mensen na die de Play Store of Play Services niet laten verifiëren, zijn de enige mensen die wat dat betreft risico lopen op misbruik van één van deze twee lekken, mensen die een Androidversie lager dan Android 2.2 draaien (minder dan 2% van de actieve Androidapparaten) én applicaties van buiten de Play Store installeren. </p><h2>Scannen op kwetsbaarheid</h2><p>Bluebox, het bedrijf dat in februari het eerste lek ontdekte, heeft een applicatie uitgebracht waarmee je kunt scannen of jouw toestel al veilig is voor misbruik van dit eerste lek. Deze applicatie is gratis en vind je <a href="https://play.google.com/store/apps/details?id=com.bluebox.labs.onerootscanner">hier</a>. De applicatie scant ook of er applicaties zijn die op jouw toestel staan die misbruik maken van het lek. Google heeft deze week nog laten weten dat er geen applicaties in (én buiten!) de Play Store gevonden zijn die misbruik maken van het lek, dus is het niet erg waarschijnlijk dat de scanner iets vindt.</p><p>De scanner zal vermoedelijk misbruik van het tweede lek niet detecteren en is eigenlijk een verkapte publiciteitsstunt. Zeker aangezien bekend is dat alleen de Galaxy S4 op dit moment niet kwetsbaar is voor het lek én apps die vanuit de Play Store komen of die worden gecontroleerd via de Play Store (bijvoorbeeld via Google Play Services zoals hierboven beschreven) geen misbruik maken van het lek. <br/><br/>Bron: <a href="http://www.androidpolice.com/2013/07/11/second-all-access-apk-exploit-is-revealed-just-two-days-after-master-key-goes-public-already-patched-by-google/">Android Police</a></p></p>
-      <p class="source">Bron: <a href="http://androidworld.nl/nieuws/beveiligingslek-android-tweede-lek-gevonden-gedicht/">androidworld.nl</a>.</p>
-      </div>
-   </div>
-   <div class="articlebox sidebar">
-   </div>
-   <script>
-   $.ajax({
-     url: "sidebar.html",
-     cache: false
-   }).done(function( html ) {
-     $(".sidebar").append(html);
-   });
-   </script>
-   <div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
-            <img src="images/title2.jpg"  style="display: block; margin: 20px auto;"/>
+<div id="article" class="articlebox" itemscope itemtype="http://schema.org/NewsArticle">
+<h1 itemprop="headline">Beveiligingslek Android  tweede lek gevonden, gedicht</h1>
+<span class="date"><time datetime="2013-07-12T22:36" itemprop="dateCreated datePublished"><span class="date">12 juli om 22:36</span></time></span>
+<div itemprop="articleBody text"><h2>Beveiligingslek</h2><p>Het beveiligingslek dat deze week bekend werd, heeft te maken met de manier waarop Android installatiebestanden controleert. Of je nu een applicatie haalt uit de Google Play Store of direct van de website van een leverancier: Android-apps zitten altijd in een installatiebestand, genaamd APK. Wanneer je een APK installeert, wordt er gecontroleerd of er niet met de app geknoeid is: naast de digitale handtekening van de fabrikant wordt er ook een digitale vingerafdruk gemaakt van het installatiebestand. Met deze digitale vingerafdruk blijkt iets mis te zijn: het is mogelijk om bestanden aan te passen zonder dat de vingerafdruk voor het systeem onjuist wordt. </p><p>Wanneer kwaadwillenden een installatiebestand aanpassen, door er bijvoorbeeld malware in te zetten, zou Android normaal gesproken de installatie van de app af moeten breken: de digitale vingerafdruk zou immers niet meer kloppen. Deze week werd bekend dat beveiligingsbedrijf Bluebox een manier had gevonden om het installatiebestand aan te passen, zonder dat voor Android de vingerafdruk verandert. Een Chinese hackersgroep of hacker onder de naam Android Security Squad heeft een tweede gat gevonden in de controle van deze vingerafdrukken.</p><h2>Twee lekken</h2><p>Het eerste lek was eigenlijk vrij eenvoudig te misbruiken. Android neemt namelijk wel een digitale vingerafdruk van de bestanden in een installatiepakket af, maar doet dat blijkbaar slordig: het bleek mogelijk om extra bestanden toe te voegen aan een installatiebestand, als deze maar dezelfde naam heeft als een origineel bestand. Wanneer je dat extra bestand, bijvoorbeeld voorzien van kwaadaardige software, in het installatiepakket vóór het originele bestand opneemt, wordt alleen het originele bestand meegenomen in de vingerafdruk, waardoor er niets mis lijkt te zijn. </p><p>Het lek dat door de Chinese onderzoeker(s) gevonden werd, kwam op een interessante manier aan het licht: Google maakte op 3 juli een aanpassing in het Android Open Source Project. In dit project is alle broncode van Android te vinden, op die van de Google-applicaties na. Deze verandering kreeg de volgende omschrijving:</p><p>Values in ZIP files are unsigned</p><p>Op basis van deze korte omschrijving en de verandering in de code wisten de Chinezen uit te vinden welk probleem opgelost wordt door deze verandering. Dit beveiligingsprobleem blijkt dus ook het vingerafdrukproces van Android te raken. Het blijkt mogelijk te zijn om op een specifieke plek in een installatiebestand bepaalde data toe te voegen. Aan het begin van een ingepakt bestand (zip-bestand) dat zich in een installatiebestand bevindt, wordt een getal opgegeven (een combinatie van de naam van het bestand en een extra waarde), waardoor het systeem weet hoeveel verder het moet kijken om bij de data in het bestand te komen. Het bleek mogelijk te zijn om aan dit getal een negatieve waarde te geven, waardoor het verborgen bestand overgeslagen werd in de scan. De wijziging die Google maakte, zorgt er voor dat dit getal alleen nog positieve waarden kan krijgen.</p><h2>Gevaar</h2><p>Het tweede lek is net zo gevaarlijk als het lek dat eerder aan het licht kwam. Net als voor het eerste lek, heeft Google ook voor het tweede lek een oplossing. Deze oplossing moet echter wel eerst door fabrikanten opgenomen worden in een update, voordat je toestel volledig beschermd is tegen misbruik van dit lek. Dat zal waarschijnlijk opnieuw leiden tot koppen als 'opnieuw lek gevonden in 99% van alle Androidtoestellen' en dat is misschien ook wel terecht. Aan de andere kant is het risico dat je loopt dat er misbruik gemaakt wordt van (één van deze twee) lekken minimaal. </p><p>Dat het risico minimaal is, zullen we nog een keer uitleggen. Ten eerste zijn applicaties die je download via de Google Play Store vrij van misbruik van het eerste lek en gegeven het feit dat Google de code aangepast heeft in het Android Open Source Project, kunnen we er zeker van zijn dat applicaties in de Google Play Store ook vrij zijn van misbruik van het tweede lek. Daarnaast scant Google ook applicaties die niet in de Play Store te vinden zijn. Het bedrijf heeft al een tijd terug bekend gemaakt ook applicaties te downloaden van over het hele web, uit applicatiewinkels van derden en vermoedelijk zelfs illegale bronnen. In deze applicaties scant het bedrijf ook op malware, bijvoorbeeld malware die gebruik maakt van deze lekken. Met deze informatie wordt de scanner die in de Play Store zit aangepast. Deze malwarescanner is verborgen in de Play Store-applicatie op jouw toestel en werkt officieel pas vanaf Android 4.2. Google heeft hier echter een truc voor en gebruikt Google Play Services om ook op Android 2.2 bestanden te kunnen verifiëren en scannen. Meer informatie over hoe dit werkt kun je <a href="http://androidworld.nl/nieuws/beveiligingslek-android/">hier lezen</a>. Wanneer je alleen applicaties of games installeert vanuit de Play Store, ben je 100% veilig voor deze lekken. Wanneer je applicaties ergens anders vandaan haalt maar laat verifiëren door Google Play Services of de Google Play Store, zul je ook veilig zijn voor dit lek. Op mensen na die de Play Store of Play Services niet laten verifiëren, zijn de enige mensen die wat dat betreft risico lopen op misbruik van één van deze twee lekken, mensen die een Androidversie lager dan Android 2.2 draaien (minder dan 2% van de actieve Androidapparaten) én applicaties van buiten de Play Store installeren. </p><h2>Scannen op kwetsbaarheid</h2><p>Bluebox, het bedrijf dat in februari het eerste lek ontdekte, heeft een applicatie uitgebracht waarmee je kunt scannen of jouw toestel al veilig is voor misbruik van dit eerste lek. Deze applicatie is gratis en vind je <a href="https://play.google.com/store/apps/details?id=com.bluebox.labs.onerootscanner">hier</a>. De applicatie scant ook of er applicaties zijn die op jouw toestel staan die misbruik maken van het lek. Google heeft deze week nog laten weten dat er geen applicaties in (én buiten!) de Play Store gevonden zijn die misbruik maken van het lek, dus is het niet erg waarschijnlijk dat de scanner iets vindt.</p><p>De scanner zal vermoedelijk misbruik van het tweede lek niet detecteren en is eigenlijk een verkapte publiciteitsstunt. Zeker aangezien bekend is dat alleen de Galaxy S4 op dit moment niet kwetsbaar is voor het lek én apps die vanuit de Play Store komen of die worden gecontroleerd via de Play Store (bijvoorbeeld via Google Play Services zoals hierboven beschreven) geen misbruik maken van het lek. <br/><br/>Bron: <a href="http://www.androidpolice.com/2013/07/11/second-all-access-apk-exploit-is-revealed-just-two-days-after-master-key-goes-public-already-patched-by-google/">Android Police</a></p></div>
+<p class="source">Via: <a href="http://androidworld.nl/nieuws/beveiligingslek-android-tweede-lek-gevonden-gedicht/">androidworld.nl</a>.</p>
+ <div id="disqus_thread" itemscope itemtype="http://schema.org/UserComments"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'androidnieuws2'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+</div>
+<div class="articlebox sidebar">
+</div>
+<script>
+$.ajax({
+url: "sidebar.html",
+cache: false
+}).done(function( html ) {
+console.log(html)
+$(".sidebar").append(html);
+});
+</script>
+<div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
+            <img src="images/title2.jpg"  alt="Android Nieuws" style="display: block; margin: 20px auto;"/>
          </div>
       </body>
    </html>

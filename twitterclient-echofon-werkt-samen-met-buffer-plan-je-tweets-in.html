@@ -1,10 +1,17 @@
 <!DOCTYPE html>
+   <!--
+   Copyright (c) 2013 Android Nieuws
+   All rights reserved
+   -->
    <html>
       <head>
-         <title>AndroidNieuws - Twitterclient Echofon werkt samen met Buffer  plan je tweets in</title>
+         <title>Android Nieuws - Twitterclient Echofon werkt samen met Buffer  plan je tweets in</title>
          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <meta name="description" content="Het allerlaatste nieuws over Android!" />
+	 <meta name="keywords" content="Android, androidnieuws, android nieuws, sony, htc, samsung, galaxy, xperia, htc one, samsung galaxy, samsung note, google phone" />
+	 <meta name="author" content="androidnieuws.com" />
          <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-         <script src="js/scripts.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
          <script type="text/javascript">
             WebFontConfig = {
                google: { families: [ 'Magra:400' ] }};
@@ -17,41 +24,72 @@
                s.parentNode.insertBefore(wf, s);
             })();
          </script>
-         <link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
       </head>
-      <body>
+      <body class="androidnieuws">
          <div id="topbar">
             <ul>
-               <li class="active">AndroidNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li>               <li class="right">15 juli 2013</li>
+               <li class="active">Android Nieuws</li><li><a href="http://www.iphonenieuws.com">iPhone Nieuws</a></li><li><a href="http://www.blackberrynieuws.com">BlackBerry Nieuws</a></li><li><a href="http://www.nokianieuws.com">Nokia Nieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
-         </div>
-         <h1 id="pagetitle"><a href="http://www.androidnieuws.com"><img src="images/title.jpg" alt="iPhone Nieuws"/></a></h1>
+         </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1087655"></script></div><h1 id="pagetitle"><a href="http://www.androidnieuws.com"><img src="images/title.jpg" alt="Android Nieuws"/></a></h1>
          <div id="nav">
             <ul>
-               <li class="active">Laatste Nieuws</li>
-               <li><a href="#" class="coming_soon">Tech Specs</a></li>
-               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
                <li><a href="#" class="coming_soon">Foto's</a></li>
                <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
          </div><div id="container" class="shift">
-      <div id="article" class="articlebox">
-      <h1>Twitterclient Echofon werkt samen met Buffer  plan je tweets in</h1>
-      <p><h2>Schedule</h2><p>Echofon valt op omdat deze helemaal volgens de richtlijnen voor Androidapps is gebouwd, we hebben deze app in <a title="artikel review" href="http://androidworld.nl/nieuws/echofon-nieuwe-twitter-applicatie-in-de-google-play-store/" target="_blank">dit artikel</a> al eens van dichtbij bekeken. De update draait om het inplannen van tweets met behulp van Buffer. Het inplannen van Tweets is vooral belangrijk voor diegenen die Twitter gebruiken om gevonden te worden of hun merk in de markt willen zetten. Buffer is een dienst die de tweets op het juiste moment verstuurd voor de gebruiker. En met het juiste moment bedoelen we wanneer de tweet het beste gelezen zal worden.</p><p>Via de website <a href="https://bufferapp.com/" target="_blank">bufferapp.com</a> kun je aangeven wanneer voor jou de beste momenten op een dag zijn om je berichten te versturen. Het verzenden via buffer werkt zeer eenvoudig vanuit Echofon zelf.</p><p><img src="http://cdn2.androidworld.nl/1dd1da86ff/media/bufferechofon_big.png" alt="Buffer echofon" width="460" height="767"/></p><p>Wanneer je je tweet schrijft vanuit de 'compose box', dan zie je onderaan een klok-icoon staan. Wanneer je deze icoon activeert, zal de tweet naar Buffer worden verstuurd en op de ingegeven tijd op Twitter (en Facebook wanneer je deze ook aanmeldt) zetten.</p><h2>Retweets</h2><p>Je kunt niet alleen je eigen tweets plannen via Buffer, maar ook de ReTweets die je wil doen. Wanneer je een Tweet van iemand die je volgt opnieuw wil delen met jouw volgers (Retweeten of RT) dan krijg je in de pop-up ook de mogelijkheid dat via Buffer te doen.</p><p>Deze update zal voor de gemiddelde gebruiker weinig meerwaarde hebben, maar is voor diegenen die beroepsmatig met Twitter werken zeker een uitkomst.</p><p><a href="https://play.google.com/store/apps/details?id=com.echofon"><img src="https://developer.android.com/images/brand/nl_generic_rgb_wo_60.png" alt="Get it on Google Play"/></a></p><p>Bron: <a title="Bron" href="http://blog.bufferapp.com/echofon-buffer-schedule-tweets-retweets-social-analytics" target="_blank">Blog Bufferapp</a></p></p>
-      <p class="source">Bron: <a href="http://androidworld.nl/nieuws/twitterclient-echofon-werkt-samen-met-buffer/">androidworld.nl</a>.</p>
-      </div>
-   </div>
-   <div class="articlebox sidebar">
-   </div>
-   <script>
-   $.ajax({
-     url: "sidebar.html",
-     cache: false
-   }).done(function( html ) {
-     $(".sidebar").append(html);
-   });
-   </script>
-   <div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
-            <img src="images/title2.jpg"  style="display: block; margin: 20px auto;"/>
+<div id="article" class="articlebox" itemscope itemtype="http://schema.org/NewsArticle">
+<h1 itemprop="headline">Twitterclient Echofon werkt samen met Buffer  plan je tweets in</h1>
+<span class="date"><time datetime="2013-07-15T22:00" itemprop="dateCreated datePublished"><span class="date">15 juli om 22:00</span></time></span>
+<div itemprop="articleBody text"><h2>Schedule</h2><p>Echofon valt op omdat deze helemaal volgens de richtlijnen voor Androidapps is gebouwd, we hebben deze app in <a title="artikel review" href="http://androidworld.nl/nieuws/echofon-nieuwe-twitter-applicatie-in-de-google-play-store/" target="_blank">dit artikel</a> al eens van dichtbij bekeken. De update draait om het inplannen van tweets met behulp van Buffer. Het inplannen van Tweets is vooral belangrijk voor diegenen die Twitter gebruiken om gevonden te worden of hun merk in de markt willen zetten. Buffer is een dienst die de tweets op het juiste moment verstuurd voor de gebruiker. En met het juiste moment bedoelen we wanneer de tweet het beste gelezen zal worden.</p><p>Via de website <a href="https://bufferapp.com/" target="_blank">bufferapp.com</a> kun je aangeven wanneer voor jou de beste momenten op een dag zijn om je berichten te versturen. Het verzenden via buffer werkt zeer eenvoudig vanuit Echofon zelf.</p><p><img src="http://cdn2.androidworld.nl/1dd1da86ff/media/bufferechofon_big.png" alt="Buffer echofon" width="460" height="767"/></p><p>Wanneer je je tweet schrijft vanuit de 'compose box', dan zie je onderaan een klok-icoon staan. Wanneer je deze icoon activeert, zal de tweet naar Buffer worden verstuurd en op de ingegeven tijd op Twitter (en Facebook wanneer je deze ook aanmeldt) zetten.</p><h2>Retweets</h2><p>Je kunt niet alleen je eigen tweets plannen via Buffer, maar ook de ReTweets die je wil doen. Wanneer je een Tweet van iemand die je volgt opnieuw wil delen met jouw volgers (Retweeten of RT) dan krijg je in de pop-up ook de mogelijkheid dat via Buffer te doen.</p><p>Deze update zal voor de gemiddelde gebruiker weinig meerwaarde hebben, maar is voor diegenen die beroepsmatig met Twitter werken zeker een uitkomst.</p><p><a href="https://play.google.com/store/apps/details?id=com.echofon"><img src="https://developer.android.com/images/brand/nl_generic_rgb_wo_60.png" alt="Get it on Google Play"/></a></p><p>Bron: <a title="Bron" href="http://blog.bufferapp.com/echofon-buffer-schedule-tweets-retweets-social-analytics" target="_blank">Blog Bufferapp</a></p></div>
+<p class="source">Via: <a href="http://androidworld.nl/nieuws/twitterclient-echofon-werkt-samen-met-buffer/">androidworld.nl</a>.</p>
+ <div id="disqus_thread" itemscope itemtype="http://schema.org/UserComments"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'androidnieuws2'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+</div>
+<div class="articlebox sidebar">
+</div>
+<script>
+$.ajax({
+url: "sidebar.html",
+cache: false
+}).done(function( html ) {
+console.log(html)
+$(".sidebar").append(html);
+});
+</script>
+<div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
+            <img src="images/title2.jpg"  alt="Android Nieuws" style="display: block; margin: 20px auto;"/>
          </div>
       </body>
    </html>
