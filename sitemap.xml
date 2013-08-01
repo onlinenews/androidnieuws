@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/apps-op-ios-brengen-meer-op-dan-op-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-01</news:publication_date>
+   <news:title>Apps op iOS brengen meer op dan op Android</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/blokkenschema-voor-lowlands-2013-bekend.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-01</news:publication_date>
+   <news:title>Blokkenschema voor Lowlands 2013 bekend</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/capcom-kondigt-onder-meer-breath-of-fire-6-aan.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
