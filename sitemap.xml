@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/motorola-introduceert-moto-x.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-01</news:publication_date>
+   <news:title>Motorola introduceert Moto X</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/blackberry-messenger-laat-zich-heel-even-zien-bta-testers-worden-ingeschake.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
