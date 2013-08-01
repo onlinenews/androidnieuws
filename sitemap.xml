@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-07-31</lastmod>
+<lastmod>2013-08-01</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/van-ijdel-iphone-tot-drankorgel-android-dit-zegt-je-smartphone-over-jou.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-01</news:publication_date>
+   <news:title>Van ijdel (iPhone) tot drankorgel (Android): dit zegt je smartphone over jou</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/microsoft-office-voor-android-beschikbaar.html</loc>
