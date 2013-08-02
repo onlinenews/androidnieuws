@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/views-toegevoegd-aan-google-maps.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-02</news:publication_date>
+   <news:title>"Views" toegevoegd aan Google Maps</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/cyanogenmod-102-brengt-global-blacklist-functionaliteit-naar-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-02</news:publication_date>
+   <news:title>CyanogenMod 10.2 brengt 'global-blacklist'-functionaliteit naar Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/nieuwe-distributiecijfers-android-verdere-toename-aandeel-jelly-bean.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
