@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/slimme-pook-trilt-als-je-moet-schakelen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-02</news:publication_date>
+   <news:title>Slimme pook trilt als je moet schakelen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/bamboo-stylus-en-loop-app-review.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-02</news:publication_date>
+   <news:title>Bamboo stylus en Loop app review</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/views-toegevoegd-aan-google-maps.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
