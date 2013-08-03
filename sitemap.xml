@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/google-play-store-vs-apple-ios-app-store.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-03</news:publication_date>
+   <news:title>Google Play Store vs Apple iOS App Store</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/samsung-begint-uitrol-android-422-voor-de-galaxy-tab-2-70.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
