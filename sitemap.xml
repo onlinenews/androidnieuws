@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/linkedin-maakt-mobiel-solliciteren-beschikbaar-voor-leden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-05</news:publication_date>
+   <news:title>LinkedIn maakt mobiel solliciteren beschikbaar voor leden</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/permission-manager-houd-de-controle-over-je-apps.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-05</news:publication_date>
+   <news:title>Permission Manager: houd de controle over je apps</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/smartphone-kwijt-android-device-manager-biedt-uitkomst.html</loc>
 <lastmod>2013-08-05</lastmod>
 <changefreq>weekly</changefreq>
