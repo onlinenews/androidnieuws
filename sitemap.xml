@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/zelfs-je-toiletgang-is-niet-meer-veilig-voor-hackers.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-05</news:publication_date>
+   <news:title>Zelfs je toiletgang is niet meer veilig voor hackers</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/behoefte-aan-online-privacy-goed-voor-zoekmachinemarkt.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
