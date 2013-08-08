@@ -3,9 +3,233 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-08-07</lastmod>
+<lastmod>2013-08-08</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/open-source-android-bedreigd-door-qualcomm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Open source-Android bedreigd door Qualcomm</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-play-music-all-access-nu-in-belgi-beschikbaar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Google Play Music All Access nu in België beschikbaar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/expense-manager-gratis-budgetbeheerder-met-strak-holo-uiterlijk.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Expense Manager: gratis budgetbeheerder met strak Holo-uiterlijk</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-heeft-bijna-80-van-de-smartphone-markt-in-handen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Android heeft bijna 80% van de smartphone markt in handen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/tool-voor-lokaliseren-verloren-android-telefoons-komt-online.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Tool voor lokaliseren verloren Android-telefoons komt online</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-apparaatbeheer-gelanceerd-terugvinden-en-op-afstand-wissen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Android Apparaatbeheer gelanceerd: terugvinden en op afstand wissen</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/instagram-video-voor-android-40-uitgebracht.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-08</news:publication_date>
+   <news:title>Instagram video voor Android 4.0 uitgebracht</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/redreader-gratis-reddit-app-tjokvol-handige-functies.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>RedReader: gratis Reddit-app tjokvol handige functies</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/lg-g2-zeker-op-de-goede-weg.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>LG G2: zeker op de goede weg</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/lg-g2-met-frisse-nieuwe-manier-van-besturen-aangekondigd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>LG G2 met frisse nieuwe manier van besturen aangekondigd</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/teamspeak-3-client-30111.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>TeamSpeak 3 Client 3.0.11.1</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/clean-file-manager-gratis-bestandsbeheerder-met-holo-design.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Clean File Manager: gratis bestandsbeheerder met Holo-design</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/lg-g2-foto-gelekt-laat-smartphone-in-volle-glorie-zien.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>LG G2 foto gelekt, laat smartphone in volle glorie zien</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/htc-komt-met-midrange-desire-500-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>HTC komt met midrange Desire 500-smartphone</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/blauwe-htc-one-op-komst.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Blauwe HTC One op komst</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/htc-desire-500-aangekondigd-interessant-midrange-toestel-van-249-euro.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>HTC Desire 500 aangekondigd: interessant midrange-toestel van 249 euro</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/whatsapp-spraakbericht-verzenden-mogelijk-na-laatste-update.html</loc>
@@ -187,6 +411,34 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-05</news:publication_date>
    <news:title>Samsung Galaxy S II Plus: Android 4.2.2-update van start, nog niet in Nederland en België</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/samenvatting-toshiba-tec-introduceert-e-bridge-mfp-mobiele-oplossing-van-an.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-05</news:publication_date>
+   <news:title>Samenvatting: Toshiba TEC introduceert e-BRIDGE MFP mobiele oplossing van Android</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/8-verborgen-coole-features-van-windows-phone-8.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-05</news:publication_date>
+   <news:title>8 verborgen coole features van Windows Phone 8</news:title>
 </news:news>
 </url>
 <url>
