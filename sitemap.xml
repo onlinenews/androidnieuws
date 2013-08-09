@@ -8,6 +8,48 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/motorola-gaat-de-nieuwe-nexus-smartphone-maken.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>‘Motorola gaat de nieuwe Nexus-smartphone maken’</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/htc-begint-uitrol-android-422-voor-one-x.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>HTC begint uitrol Android 4.2.2 voor One X+</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-maps-advertenties-worden-binnenkort-werkelijkheid.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>Google Maps advertenties worden binnenkort werkelijkheid</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/nvidia-tablet-in-de-maak.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
