@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-08-12</lastmod>
+<lastmod>2013-08-13</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/verkooprecord-100000-smartphones-in-90-seconden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-12</news:publication_date>
+   <news:title>Verkooprecord: 100.000 smartphones in 90 seconden</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/aw-bits-12-08-lgs-pr-stunt-mislukt-reclamecampagne-htc-galaxy-note-iii-met-.html</loc>
