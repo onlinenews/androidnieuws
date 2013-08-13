@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/google-play-store-omzet-groeit-met-67-procent.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>Google Play Store omzet groeit met 67 procent</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/een-alles-in-een-android-security-app.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-13</news:publication_date>
+   <news:title>Een alles-in-een Android security app</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/lowlove-alles-over-lowlands-op-je-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
