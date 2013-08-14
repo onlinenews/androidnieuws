@@ -8,6 +8,48 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/cyangenmod-102-android-43-nightlies-beschikbaar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>CyangenMod 10.2 (Android 4.3) nightlies beschikbaar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/nexus-7-review-2013.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>Nexus 7 review (2013)</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/nexus-5-gemaakt-door-lg-verschijnt-in-oktober.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-14</news:publication_date>
+   <news:title>‘Nexus 5 gemaakt door LG, verschijnt in oktober’</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-apps-via-telefoonrekening-betalen-bij-kpn-en-hi.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
