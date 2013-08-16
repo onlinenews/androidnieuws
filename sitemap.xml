@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/plex-media-server-0984.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-16</news:publication_date>
+   <news:title>Plex Media Server 0.9.8.4</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/yahoo-weer-populaire-en-visuele-weer-app-uitgebracht-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-16</news:publication_date>
+   <news:title>Yahoo Weer: populaire en visuele weer-app uitgebracht voor Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/wekelijkse-humble-sale-bevat-android-game-mcpixel.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
