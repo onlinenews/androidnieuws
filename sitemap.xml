@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/yahoos-prachtige-weerapp-yahoo-weather-komt-naar-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-16</news:publication_date>
+   <news:title>Yahoo's prachtige weerapp Yahoo Weather komt naar Android</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/doe-mee-aan-het-vuelta-spel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-16</news:publication_date>
+   <news:title>Doe mee aan het Vuelta-spel</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/samsung-henessy-dual-screen-quad-core-android-smartphone.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
