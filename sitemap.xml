@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/cyanogenmod-device-finder-custom-rom-vindt-je-verloren-android-terug.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-20</news:publication_date>
+   <news:title>CyanogenMod Device Finder: custom rom vindt je verloren Android terug</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/minuum-keyboard-voor-android-sneller-typen-met-een-kleiner-keyboard.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
