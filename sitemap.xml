@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/youtube-update-brengt-nieuw-minimalistisch-uiterlijk.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-20</news:publication_date>
+   <news:title>YouTube update brengt nieuw minimalistisch uiterlijk</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/cyanogenmod-krijgt-feature-om-verloren-telefoon-veilig-mee-te-traceren.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
