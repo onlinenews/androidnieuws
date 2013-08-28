@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/kobo-lanceert-betaalbare-full-hd-tablets.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-28</news:publication_date>
+   <news:title>Kobo lanceert betaalbare Full HD-tablets</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-wint-op-het-gebied-van-malware.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-28</news:publication_date>
    <news:title>Android 'wint' op het gebied van malware</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/kobo-komt-met-nieuwe-tablets-en-e-reader.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-28</news:publication_date>
+   <news:title>Kobo komt met nieuwe tablets en e-reader</news:title>
 </news:news>
 </url>
 <url>
