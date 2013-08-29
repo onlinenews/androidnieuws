@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/hugo-barra-topman-bij-android-vertrekt-naar-xiaomi.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-29</news:publication_date>
+   <news:title>Hugo Barra, topman bij Android, vertrekt naar Xiaomi</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/hps-android-laptoptablet-is-vlees-noch-vis-video.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-29</news:publication_date>
+   <news:title>'HP's Android-laptoptablet is vlees noch vis' (video)</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-topman-vertrekt-bij-google-voor-xiaomi.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-29</news:publication_date>
    <news:title>Android-topman vertrekt bij Google voor Xiaomi</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-topman-naar-chinese-telefoongigant.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-29</news:publication_date>
+   <news:title>Android-topman naar Chinese telefoongigant</news:title>
 </news:news>
 </url>
 <url>
