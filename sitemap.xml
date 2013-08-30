@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/android-topman-vertrekt-naar-xiaomi.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-30</news:publication_date>
+   <news:title>Android-topman vertrekt naar Xiaomi</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/ifa-2013-archos-zet-android-expertise-in-voor-nieuwe-innovatieve-tablet--en.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-30</news:publication_date>
+   <news:title>IFA 2013: ARCHOS zet Android-expertise in voor nieuwe, innovatieve tablet- en smartphoneserie</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/kickstarter-doel-voor-android-knopje-in-1-dag-behaald.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
