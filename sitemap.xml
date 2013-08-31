@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-08-30</lastmod>
+<lastmod>2013-08-31</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-heeft-maker-android-smartwatches-overgenomen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-31</news:publication_date>
+   <news:title>Google heeft maker Android-smartwatches overgenomen</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/waarom-er-over-5-jaar-nog-tijdschriften-zullen-zijn.html</loc>
