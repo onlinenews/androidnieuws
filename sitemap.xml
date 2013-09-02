@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/releasedatum-baldurs-gate-ii-enhanced-edition-in-zicht.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>Releasedatum Baldur's Gate II: Enhanced Edition in zicht</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/lg-introduceert-eerste-8-inch-full-hd-tablet.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,34 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-02</news:publication_date>
    <news:title>LG introduceert eerste 8-inch Full HD-tablet</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/lg-betreedt-tabletmarkt-met-8-inch-full-hd-model.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>LG betreedt tabletmarkt met 8-inch Full HD model</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/textsecure-sterk-beveiligde-berichtenapp-in-september-naar-ios.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-02</news:publication_date>
+   <news:title>TextSecure: sterk beveiligde berichtenapp in september naar iOS</news:title>
 </news:news>
 </url>
 <url>
