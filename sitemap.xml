@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/kitkat-is-de-naam-van-volgende-versie-android-prepare-for-a-sweet-new-treat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>KitKat is de naam van volgende versie Android, Prepare for a sweet new treat</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/geen-marketingdeal-google-noemt-nieuwste-android-kitkat.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
