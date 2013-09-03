@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/geen-marketingdeal-google-noemt-nieuwste-android-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>'Geen marketingdeal'; Google noemt nieuwste Android Kitkat</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/teamviewer-80-build-20768.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
