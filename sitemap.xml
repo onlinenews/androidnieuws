@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-09-03</lastmod>
+<lastmod>2013-09-04</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/nestl-betaalt-geen-cent-voor-android-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-04</news:publication_date>
+   <news:title>Nestlé betaalt geen cent voor Android KitKat</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/androidversie-44-heet-kitkat.html</loc>
