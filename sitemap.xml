@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/nsa-kan-bijna-alle-smartphones-inzien-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-09</news:publication_date>
+   <news:title>„NSA kan bijna alle smartphones inzien”</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/xbox-music-gratis-via-web-apps-gelanceerd.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
