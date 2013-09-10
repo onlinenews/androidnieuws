@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/aldi-wolfgang-at-as35d-op-14-september-te-koop.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Aldi Wolfgang AT-AS35D op 14 september te koop</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/samsungs-exynos-5-processor-kan-eind-2013-maar-liefst-8-cores-tegelijk-gebr.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Samsungs Exynos 5-processor kan eind 2013 maar liefst 8 cores tegelijk gebruiken</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/teamspeak-3-client-3012.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
