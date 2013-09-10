@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-09-09</lastmod>
+<lastmod>2013-09-10</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/zorgde-de-usb-30-micro-voor-de-lightning-connector.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Zorgde de USB 3.0 micro voor de Lightning connector?</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/microsoft-kondigt-xbox-music-voor-ios-en-android-aan.html</loc>
