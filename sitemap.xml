@@ -8,6 +8,48 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/netflix-vanaf-heden-beschikbaar-in-nederland.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>Netflix vanaf heden beschikbaar in Nederland</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/intel-er-komen-atom-tablets-met-android-voor-100-dollar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>Intel: er komen Atom-tablets met Android voor 100 dollar</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/de-zaak-met-klikbaar-papier.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>De Zaak met klikbaar papier</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/netflix-android-nu-in-nederland-beschikbaar.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +75,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-10</news:publication_date>
    <news:title>CyanogenMod Accounts worden toegevoegd aan nightlies</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/final-fantasy-xiv-a-realm-reborn-app-vanaf-vandaag-beschikbaar-op-ios.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Final Fantasy XIV: A Realm Reborn app vanaf vandaag beschikbaar op iOS</news:title>
 </news:news>
 </url>
 <url>
