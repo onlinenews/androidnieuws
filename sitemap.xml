@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/met-nieuwe-npo-app-overal-live-tv-kijken-en-radio-luisteren.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-12</news:publication_date>
+   <news:title>Met nieuwe NPO app overal live tv-kijken en radio luisteren</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/gameplaybeelden-final-fantasy-agito.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
