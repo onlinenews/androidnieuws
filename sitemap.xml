@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/ansa-messenger-vernietigt-je-berichten.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-15</news:publication_date>
+   <news:title>Ansa messenger vernietigt je berichten</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/russische-yotaphone-met-eink-scherm-achterop-binnenkort-te-koop.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-15</news:publication_date>
+   <news:title>Russische YotaPhone met eInk-scherm achterop binnenkort te koop</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/nokia-testte-met-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
