@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/waar-komt-de-nieuwe-64-bits-processor-vandaan.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-16</news:publication_date>
+   <news:title>Waar komt de nieuwe 64 bits processor vandaan?</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/jolla-voegt-android-app-ondersteuning-toe-aan-sailfish-besturingssysteem.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
