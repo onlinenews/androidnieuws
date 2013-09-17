@@ -8,6 +8,48 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/mozilla-brengt-firefox-for-android-24-uit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-17</news:publication_date>
+   <news:title>Mozilla brengt Firefox for Android 24 uit</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-wallet-vereist-niet-langer-nfc.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-17</news:publication_date>
+   <news:title>Google Wallet vereist niet langer nfc</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/xtreamer-q-smartphone-krijgt-quadcore-soc-en-47-touchscreen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-17</news:publication_date>
+   <news:title>Xtreamer Q-smartphone krijgt quadcore-soc en 4,7"-touchscreen</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/valse-whatsapp-mail-infecteert-windows-en-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
