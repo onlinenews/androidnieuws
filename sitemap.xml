@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-09-22</lastmod>
+<lastmod>2013-09-23</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/meer-screenshots-android-kitkat-gelekt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-22</news:publication_date>
+   <news:title>Meer screenshots Android Kitkat gelekt</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/camera-app-focal-los-uitgebracht-in-google-play.html</loc>
