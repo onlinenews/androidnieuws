@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/aopk-passeert-35-miljoen-gebruikers-stapt-over-op-android-43.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-29</news:publication_date>
+   <news:title>AOPK passeert 3,5 miljoen gebruikers, stapt over op Android 4.3</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/samsung-maakt-updateplannen-bekend.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
