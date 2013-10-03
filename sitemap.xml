@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/android-fabrikanten-spelen-massaal-vals-bij-benchmarks.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-03</news:publication_date>
+   <news:title>Android-fabrikanten spelen massaal vals bij benchmarks</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/eerste-android-44-screenshots-tonen-kleine-verbeteringen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-03</news:publication_date>
+   <news:title>Eerste Android 4.4 screenshots tonen kleine verbeteringen</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/flash-renderer-shumay-wordt-opgenomen-in-firefox-code.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
