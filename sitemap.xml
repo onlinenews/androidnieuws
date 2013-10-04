@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/microsoft-wil-windows-phone-op-android-toestellen-htc.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>'Microsoft wil Windows Phone op Android-toestellen HTC'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/microsoft-wil-htc-dual-boot-met-windows-phone-8-licenseren.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Microsoft wil HTC dual-boot met Windows Phone 8 licenseren</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/microsoft-wil-dat-htc-windows-phone-op-haar-android-smartphones-zet.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-10-04</news:publication_date>
    <news:title>'Microsoft wil dat HTC Windows Phone op haar Android-smartphones zet'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-malware-minder-dan-0001-passeert-google-play-beveiliging.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-04</news:publication_date>
+   <news:title>Android-malware: minder dan 0,001% passeert Google Play-beveiliging</news:title>
 </news:news>
 </url>
 <url>
