@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/gerucht-sony-xperia-z1-krijgt-android-44-in-november.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-09</news:publication_date>
+   <news:title>Gerucht: Sony Xperia Z1 krijgt Android 4.4 in november</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/microsoft-brengt-remote-desktop-apps-naar-ios-en-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-09</news:publication_date>
+   <news:title>Microsoft brengt Remote Desktop-apps naar iOS en Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/samsung-onthult-galaxy-round-57-inch-smartphone-met-gebogen-scherm.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
