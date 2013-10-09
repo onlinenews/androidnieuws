@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-10-08</lastmod>
+<lastmod>2013-10-09</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/gerucht-samsung-werkt-aan-dualboot-tablet-met-android-en-windows-rt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-09</news:publication_date>
+   <news:title>Gerucht: Samsung werkt aan dualboot-tablet met Android en Windows RT</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/wolfgang-at-as45qhd-komt-12-oktober.html</loc>
