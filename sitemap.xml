@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/blackberry-messenger-komt-binnen-enkele-dagen-naar-android-en-ios.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-15</news:publication_date>
+   <news:title>BlackBerry Messenger komt binnen enkele dagen naar Android en iOS</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/stembediening-belangrijk-bij-de-nexus-5-en-android-44.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-15</news:publication_date>
+   <news:title>'Stembediening belangrijk bij de Nexus 5 en Android 4.4'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/hps-android-desktop-pc-onder-de-loep.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
