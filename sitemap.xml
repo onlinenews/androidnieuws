@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/malwarebytes-anti-malware-mobile-10.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-17</news:publication_date>
+   <news:title>Malwarebytes Anti-Malware Mobile 1.0</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/populaire-anti-malware-app-malwarebytes-nu-beschikbaar-voor-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
