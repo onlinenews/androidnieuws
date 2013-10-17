@@ -8,6 +8,48 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/samsung-start-uitrol-galaxy-s4-android-43-update.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-17</news:publication_date>
+   <news:title>Samsung start uitrol Galaxy S4 Android 4.3 update</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/fireeye-introduceert-mobiel-beveiligingsplatform.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-17</news:publication_date>
+   <news:title>FireEye introduceert mobiel beveiligingsplatform</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/knok-met-beren-en-herten-in-kickstarter-game-fist-of-awesome.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-17</news:publication_date>
+   <news:title>Knok met beren en herten in Kickstarter-game Fist of Awesome</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/google-glass-update-brengt-diverse-nieuwe-functies.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
