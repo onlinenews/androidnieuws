@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/nexus-5-krijgt-geen-3000-mah-batterij-komt-ook-in-het-wit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-19</news:publication_date>
+   <news:title>‘Nexus 5 krijgt geen 3000 mAh-batterij, komt ook in het wit’</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-werkt-aan-kiosk-in-google-play.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-19</news:publication_date>
+   <news:title>'Google werkt aan kiosk in Google Play'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/chromecast-app-in-nederlandse-google-play-te-downloaden.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
