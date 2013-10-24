@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/virusmelding-bij-nieuwe-versie-whatsapp-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-24</news:publication_date>
+   <news:title>Virusmelding bij nieuwe versie WhatsApp voor Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/virusmelding-bij-nieuwe-versie-whatsapp.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -47,6 +61,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-10-24</news:publication_date>
    <news:title>Waarschuwingen voor malware in Whatsapp</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/malware-in-nieuwste-versie-whatsapp-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-24</news:publication_date>
+   <news:title>Malware in nieuwste versie Whatsapp voor Android</news:title>
 </news:news>
 </url>
 <url>
