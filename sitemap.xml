@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/meer-madware-in-android-apps-op-google-play.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-29</news:publication_date>
+   <news:title>Meer madware in Android-apps op Google Play</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/pingen-is-terug-20-miljoen-gebruikers-op-iphone-en-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
