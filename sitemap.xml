@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/oculus-komt-met-kleine-versie-van-vr-bril-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-30</news:publication_date>
+   <news:title>Oculus komt met kleine versie van vr-bril voor Android</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/twitter-update-brengt-een-mooiere-en-uitgebreidere-timeline.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-30</news:publication_date>
+   <news:title>Twitter update brengt een mooiere en uitgebreidere timeline</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/lenovo-introduceert-twee-android-tablets-met-kickstand.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
