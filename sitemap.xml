@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/g-data-lanceert-internet-security-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-01</news:publication_date>
+   <news:title>G Data lanceert Internet Security voor Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/launcher-en-diverse-apps-android-44-blijken-nu-al-te-installeren.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
