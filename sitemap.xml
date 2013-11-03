@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-11-02</lastmod>
+<lastmod>2013-11-03</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/video-horlogemaker-android-komt-met-eigen-smartwatch.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-03</news:publication_date>
+   <news:title>Video: horlogemaker Android komt met eigen smartwatch</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/jelly-bean-marktaandeel-groeit-meer-dan-helft-android-draait-op-jelly-bean.html</loc>
