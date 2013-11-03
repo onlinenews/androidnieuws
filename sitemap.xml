@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/8-inch-nexustablet-gelekt-in-promotiemateriaal-van-google.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-03</news:publication_date>
+   <news:title>'8-inch Nexustablet gelekt in promotiemateriaal van Google'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/mobiel-fotograferen-met-de-lg-nexus-5.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-03</news:publication_date>
+   <news:title>Mobiel fotograferen met de LG Nexus 5</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/video-horlogemaker-android-komt-met-eigen-smartwatch.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
