@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/samsung-knox-stelt-vooralsnog-flink-teleur.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-06</news:publication_date>
+   <news:title>Samsung Knox stelt vooralsnog flink teleur</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/kitkat-identificeert-onbekende-bellers-via-google.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
