@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-11-05</lastmod>
+<lastmod>2013-11-06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/kitkat-identificeert-onbekende-bellers-via-google.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-06</news:publication_date>
+   <news:title>KitKat identificeert onbekende bellers via Google+</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/6-veranderingen-in-android-44-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-06</news:publication_date>
+   <news:title>6 veranderingen in Android 4.4 KitKat</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/groei-cheqroom-zet-zich-door-op-verschillende-niveaus.html</loc>
