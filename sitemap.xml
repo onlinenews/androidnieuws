@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/feesten-met-rayman-op-je-mobiel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-08</news:publication_date>
+   <news:title>Feesten met Rayman op je mobiel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/kitkat-toetsenbord-en-hangouts-update-nu-beschikbaar-voor-iedereen.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-08</news:publication_date>
+   <news:title>KitKat-toetsenbord en Hangouts-update nu beschikbaar voor iedereen</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-44-roms-galaxy-nexus-met-bijgewerkte-gpu-drivers-komen-binnenkort.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
