@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/android-44-roms-galaxy-nexus-met-bijgewerkte-gpu-drivers-komen-binnenkort.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-08</news:publication_date>
+   <news:title>Android 4.4-roms Galaxy Nexus met bijgewerkte gpu-drivers komen binnenkort</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/uitrol-xperia-z-en-xperia-z1-update-naar-android-43-start-in-december.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-08</news:publication_date>
+   <news:title>Uitrol Xperia Z en Xperia Z1 update naar Android 4.3 start in december</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/hangouts-met-sms-ondersteuning-nu-beschikbaar-in-google-play.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
