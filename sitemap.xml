@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/hearthstone-komt-ook-naar-iphone-en-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-11</news:publication_date>
+   <news:title>Hearthstone komt ook naar iPhone en Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/ontwikkelaars-maken-android-42-firmware-voor-samsungs-bada-telefoons.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
