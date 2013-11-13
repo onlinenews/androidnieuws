@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/sailfish-heeft-toegang-tot-android-apps-via-russische-app-winkel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>Sailfish heeft toegang tot Android-apps via Russische app-winkel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-en-ios-bedienen-samen-94-procent-van-de-smartphonemarkt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-13</news:publication_date>
+   <news:title>Android en iOS bedienen samen 94 procent van de smartphonemarkt</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/google-rolt-kitkat-update-uit-naar-nexus-7-en-nexus-10.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
