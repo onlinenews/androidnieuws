@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/android-44-zelf-installeren-op-nexus-7-2012.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>Android 4.4: zelf installeren op Nexus 7 (2012)</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-zoeken-update-google-experience-launcher-voor-android-41.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>Google Zoeken-update: Google Experience Launcher voor Android 4.1+</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/facebook-gaat-whatsappen.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
