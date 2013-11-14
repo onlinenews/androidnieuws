@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/amy-oleary-new-york-times-8-digitale-trends-voor-nieuwsmedia.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>Amy O’Leary (New York Times): 8 digitale trends voor nieuwsmedia</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-44-fabrieksimages-beschikbaar-voor-nexus-4-en-3g-versie-nexus-7-201.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
