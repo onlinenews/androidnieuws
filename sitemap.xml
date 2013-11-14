@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/eerste-sailfish-telefoon-27-november-in-de-winkel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>Eerste Sailfish-telefoon 27 november in de winkel</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-experience-launcher-vanaf-nu-beschikbaar.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-14</news:publication_date>
+   <news:title>Google Experience Launcher vanaf nu beschikbaar</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/facebook-messenger-laat-gebruikers-elkaar-vinden-met-telefoonnummer.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
