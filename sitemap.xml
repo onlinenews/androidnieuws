@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/okay-google-infographic.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-16</news:publication_date>
+   <news:title>Okay Google.... [infographic]</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/candy-crush-saga-meer-dan-500-miljoen-keer-gedownload.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
