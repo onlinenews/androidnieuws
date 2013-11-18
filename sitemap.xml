@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/ridiculous-fishing-komt-naar-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>Ridiculous Fishing komt naar Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/ridiculous-fishing-onderweg-naar-android.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-18</news:publication_date>
    <news:title>Ridiculous Fishing onderweg naar Android</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/apple-lokt-winkelklanten-met-ibeacon.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>Apple lokt winkelklanten met iBeacon</news:title>
 </news:news>
 </url>
 <url>
