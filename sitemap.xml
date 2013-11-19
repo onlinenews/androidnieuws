@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/ios-en-privacy-tros-radar-snapt-het-niet.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-19</news:publication_date>
+   <news:title>iOS en privacy; Tros Radar snapt het niet</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/google-beloont-security-patches-openvpn-apache-en-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-19</news:publication_date>
+   <news:title>Google beloont security-patches OpenVPN, Apache en Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/instabridge-biedt-gratis-wifi-aan-in-randstad.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
