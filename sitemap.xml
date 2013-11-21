@@ -3,9 +3,51 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-11-20</lastmod>
+<lastmod>2013-11-21</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/jongleren-met-thuisschermen-in-android-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-21</news:publication_date>
+   <news:title>Jongleren met thuisschermen in Android KitKat</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/8570-twitter-experimenteert-volop-maar-werkt-het-ook.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-21</news:publication_date>
+   <news:title>#8570: Twitter experimenteert volop, maar werkt het ook?</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/vodafone-nederland-brengt-binnenkort-whatsapp-concurrent-uit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-21</news:publication_date>
+   <news:title>Vodafone Nederland brengt binnenkort WhatsApp-concurrent uit</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/brightday2-lg-curved-oled-uber-en-surface-2.html</loc>
