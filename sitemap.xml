@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/sony-voorziet-xperia-sp-van-android-44-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-22</news:publication_date>
+   <news:title>Sony voorziet Xperia SP van Android 4.4 KitKat</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/oprichter-layar-start-google-glass-bedrijf.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
