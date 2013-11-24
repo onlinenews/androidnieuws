@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/android-probeert-windows-in-de-wielen-te-rijden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-24</news:publication_date>
+   <news:title>Android probeert Windows in de wielen te rijden</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/week-47-de-beste-apps-voor-ios-android-en-windows-phone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-24</news:publication_date>
+   <news:title>Week 47: De beste apps voor iOS, Android en Windows Phone</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/kleine-aldi-tablet-nu-ook-in-belgi.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
