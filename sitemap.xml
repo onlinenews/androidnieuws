@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-11-24</lastmod>
+<lastmod>2013-11-25</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/android-44-zorgt-voor-problemen-met-exchange.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>Android 4.4 zorgt voor problemen met Exchange</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/android-probeert-windows-in-de-wielen-te-rijden.html</loc>
