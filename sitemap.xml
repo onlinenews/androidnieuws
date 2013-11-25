@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/google-nexus-5-vs-sony-xperia-z-review.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>Google Nexus 5 vs Sony Xperia Z review</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/ac-ryan-rust-android-smartphone-uit-met-quadcore-soc-en-5-scherm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>AC Ryan rust Android-smartphone uit met quadcore-soc en 5"-scherm</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/problemen-met-exchange-accounts-in-android-44.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
