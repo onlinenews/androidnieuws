@@ -50,6 +50,20 @@
 </news:news>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/samsung-galaxy-grand-2-aangekondigd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>Samsung Galaxy Grand 2 aangekondigd</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/android-44-zorgt-voor-problemen-met-exchange.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
