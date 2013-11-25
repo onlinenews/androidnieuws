@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/final-fantasy-4-the-after-years-nu-op-ios-en-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-25</news:publication_date>
+   <news:title>Final Fantasy 4: The After Years nu op iOS en Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/hoe-overstappen-naar-android-volgens-eric-schmidt.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
