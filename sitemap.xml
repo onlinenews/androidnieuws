@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/samsung-voegt-sms-ondersteuning-toe-aan-berichtendienst-chaton.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-26</news:publication_date>
+   <news:title>Samsung voegt SMS-ondersteuning toe aan berichtendienst ChatON</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/samsung-homesync-review--een-persoonlijke-cloud-oplossing.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-26</news:publication_date>
+   <news:title>Samsung HomeSync review – een persoonlijke Cloud oplossing</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/mobiele-game-assassins-creed-pirates-verschijnt-op-5-december.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
