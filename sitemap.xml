@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/gigaset-komt-met-twee-nieuwe-android-tablets.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-27</news:publication_date>
+   <news:title>Gigaset komt met twee nieuwe Android-tablets</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/aldi-met-android-tablets-vanaf-90-euro.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-27</news:publication_date>
+   <news:title>Aldi met Android tablets vanaf 90 euro</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/blackberry-messenger-aims-for-more-devices-in-new-deal.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
