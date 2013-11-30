@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/e-mailapp-galaxy-tab-2-is-onbruikbaar-na-update-android-422.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-30</news:publication_date>
+   <news:title>E-mailapp Galaxy Tab 2 is onbruikbaar na update Android 4.2.2</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/cyanogenmod-102-rc1.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
