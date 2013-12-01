@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-11-30</lastmod>
+<lastmod>2013-12-01</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/test-de-nieuwe-lg-g2-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-01</news:publication_date>
+   <news:title>Test: De nieuwe LG G2 smartphone</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/jolla-ceo-says-they-want-to-sideload-sailfish-os-onto-android-devices.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-30</news:publication_date>
+   <news:title>Jolla CEO says they want to sideload Sailfish OS onto Android devices</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/tip-actiegame-badland-eindelijk-beschikbaar-voor-android.html</loc>
