@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/jolla-wil-besturingssysteem-sailfish-op-android-apparaten-mogelijk-maken.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-03</news:publication_date>
+   <news:title>Jolla wil besturingssysteem Sailfish op Android-apparaten mogelijk maken</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/verspreiding-kitkat-komt-op-gang.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
