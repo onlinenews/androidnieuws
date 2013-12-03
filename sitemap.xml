@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-12-02</lastmod>
+<lastmod>2013-12-03</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/aandeel-android-44-kitkat-11-procent-jelly-bean-nog-steeds-populair.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-03</news:publication_date>
+   <news:title>Aandeel Android 4.4 KitKat 1,1 procent, Jelly Bean nog steeds populair</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/aldi-app-aanbiedingen-checken-met-je-android-smartphone.html</loc>
