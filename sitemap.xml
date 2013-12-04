@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/google-werkt-aan-intelligente-robots.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-04</news:publication_date>
+   <news:title>Google werkt aan intelligente robots</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/amazon-adventksalender-tag-4-zb-benq-27-3d-gaming-monitor-325-euro-ravensbu.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
