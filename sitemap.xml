@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.androidnieuws.com/chrome-apps-komen-op-korte-termijn-naar-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-04</news:publication_date>
+   <news:title>‘Chrome apps komen op korte termijn naar Android’</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/maandcijfers-android-aandeel-jelly-bean-weer-gestegen-kitkat-doet-voor-het-.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-04</news:publication_date>
+   <news:title>Maandcijfers Android: aandeel Jelly Bean weer gestegen, KitKat doet voor het eerst mee</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.androidnieuws.com/aces-direct---motorola-tablet-et1-2d-usb-bt-wlan-gps-andro-tablet-pc-2d--17.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
