@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.androidnieuws.com/</loc>
-<lastmod>2013-12-03</lastmod>
+<lastmod>2013-12-04</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/aces-direct---motorola-tablet-et1-2d-usb-bt-wlan-gps-andro-tablet-pc-2d--17.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-04</news:publication_date>
+   <news:title>Aces direct - Motorola Tablet ET1, 2D, USB, BT, WLAN, GPS, Andro Tablet PC, 2D , 17.8cm (7), multi touch, GPS, Camera (8MP), USB, Bluetooth, WLAN (802,11a/b/g/n), HDMI, Micro SD-Slot (max. 32GB), 1024 X 600 pixel, 1GHz, RAM: 1 GB, Flash: 4GB, Android (4.1</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.androidnieuws.com/lees-dit-boek-applicatie-komt-uit-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Android Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-04</news:publication_date>
+   <news:title>'Lees dit boek'-applicatie komt uit voor Android</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.androidnieuws.com/jolla-wil-besturingssysteem-sailfish-op-android-apparaten-mogelijk-maken.html</loc>
